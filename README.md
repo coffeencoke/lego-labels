@@ -1,7 +1,9 @@
 # lego-labels
-Collection of lego labels
+Collection of lego labels.
 
 These lables help my kids organize their legos on their own. It also helps me reset even if all of the tray gets dumped out accidentally...
+
+All labels can be found in `dist/`.
 
 Enjoy!
 
